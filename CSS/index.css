@@ -1,0 +1,67 @@
+/*body{
+background-image: url(../Images/MAINPIC.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}*/
+
+ul li{
+  text-decoration: none;
+  display:inline-block;
+  padding:20px;
+  text-align:center;
+}
+ul{
+
+  text-align: center;
+  margin-top:-20px;
+
+}
+ul li a{
+  text-decoration: none;
+  color:blue;
+  margin-top: -90px;
+}
+.navigation{
+  background-color: white;
+  margin-top:-80px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+h1{
+  color:blue;
+  font-family: 'Trade Winds', sans-serif;
+}
+.button{
+  text-align: right;
+  margin-top:-60px;
+}
+button{
+  background-color:blue;
+  color:white;
+  font-weight: bold;
+  font-size: 15px;
+}
+.fashionshow{
+  background-image: url(../Images/MAINPIC.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  padding:350px;
+  margin:40px;
+  width:50%;
+  margin-left: 20px;
+}
+a:hover {
+  background-color: yellow;
+}
+
+span{
+  font-weight: bold;
+}
+h4{
+  color:blue;
+  font-weight: bolder;
+  background-image: url(../Images/white-dress.jpeg);
+  background-repeat:no-repeat;
+  background-size: cover;
+width: 100%;
+}
