@@ -51,17 +51,33 @@ button{
   margin-left: 20px;
 }
 a:hover {
-  background-color: yellow;
+  background-color:red;
 }
 
 span{
   font-weight: bold;
+  color:red;
+}
+.Summer{
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top:-50px;
+  background-color:#0017ff;
 }
 h4{
-  color:blue;
-  font-weight: bolder;
-  background-image: url(../Images/white-dress.jpeg);
-  background-repeat:no-repeat;
-  background-size: cover;
-width: 100%;
+  font-size: 30px;
+  color:white;
+}
+p{
+  margin:50px;
+  color:white;
+
+}
+.girl{
+  margin-top:-50px;
+
+}
+.media{
+  text-align: right;
+  margin-top: -40px;
 }
